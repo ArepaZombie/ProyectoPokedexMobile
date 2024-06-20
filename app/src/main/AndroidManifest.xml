@@ -13,13 +13,13 @@
     android:theme="@style/Theme.PokedexCibertec"
     tools:targetApi="31">
     <activity
-      android:name=".PokemonActivity"
+      android:name=".ui.PokemonActivity"
       android:exported="false" />
     <activity
-      android:name=".BusquedaActivity"
+      android:name=".ui.BusquedaActivity"
       android:exported="false" />
     <activity
-      android:name=".MainActivity"
+      android:name=".ui.MainActivity"
       android:exported="true">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />

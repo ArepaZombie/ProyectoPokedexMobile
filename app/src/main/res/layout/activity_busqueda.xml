@@ -7,7 +7,7 @@
   android:layout_height="match_parent"
   android:background="#D2232A"
   android:orientation="vertical"
-  tools:context=".BusquedaActivity">
+  tools:context=".ui.BusquedaActivity">
 
   <LinearLayout
     android:layout_width="match_parent"

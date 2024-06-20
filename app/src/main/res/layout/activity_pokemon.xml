@@ -7,7 +7,7 @@
   android:layout_height="match_parent"
   android:background="#D2232A"
   android:orientation="vertical"
-  tools:context=".PokemonActivity">
+  tools:context=".ui.PokemonActivity">
 
   <TextView
     android:id="@+id/tvNombre"
